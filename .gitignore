@@ -110,3 +110,4 @@ configDEV.py
 
 #Folders
 Data/*
+.azureml/*
