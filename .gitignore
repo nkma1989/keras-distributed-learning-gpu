@@ -106,6 +106,7 @@ venv.bak/
 #filetypes
 .idx3-ubyte
 .idx1-ubyte
+config.py
 
 #Folders
 Data/*
